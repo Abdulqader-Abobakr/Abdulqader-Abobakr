@@ -45,7 +45,7 @@ Hi there! I'm **Abdulqader**, a passionate **BIT final-year student** and **fron
 
 📚 **JavaScript Projects** — Sharpening my skills with fun and practical JavaScript projects
 
-💼 **Freelance Work** — Building custom WordPress websites for small businesses
+💼 **Freelance Work** — Building custom WordPress websites for different businesses
 
 ---
 
