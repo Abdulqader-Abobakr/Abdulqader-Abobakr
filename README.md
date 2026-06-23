@@ -10,8 +10,7 @@
 
 ---
 
-<!-- ABOUT ME SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About Me
+## 👨‍💻 About Me
 
 Hi there! I'm **Abdulqader**, a passionate **BIT final-year student** and **front-end web developer** from Sana'a, Yemen. I love turning ideas into beautiful, functional websites that make a difference for businesses and people.
 
@@ -24,8 +23,7 @@ Hi there! I'm **Abdulqader**, a passionate **BIT final-year student** and **fron
 
 ---
 
-<!-- SKILLS SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -39,19 +37,15 @@ Hi there! I'm **Abdulqader**, a passionate **BIT final-year student** and **fron
 
 ---
 
-<!-- CURRENT PROJECT SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Construction.png" alt="Building" width="30" height="30" /> What I'm Working On
+## 🔨 What I'm Working On
 
-🔨 **B2B Marketing Platform** — A web platform that connects service providers with clients in need of services
-
-📚 **JavaScript Projects** — Sharpening my skills with fun and practical JavaScript projects
-
-💼 **Freelance Work** — Building custom WordPress websites for different businesses
+- **B2B Marketing Platform** — A web platform that connects service providers with clients in need of services
+- **JavaScript Projects** — Sharpening my skills with fun and practical JavaScript projects
+- **Freelance Work** — Building custom WordPress websites for different businesses
 
 ---
 
-<!-- GITHUB STATS SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" /> GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdulqader-Abobakr&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
@@ -64,7 +58,7 @@ Hi there! I'm **Abdulqader**, a passionate **BIT final-year student** and **fron
 
 ---
 
-<!-- WAVING FOOTER -->
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=100%"/>
 </p>
