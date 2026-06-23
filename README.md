@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Abdulqader**, a passionate **BIT student** and **front-end web developer** from Sana'a, Yemen. I love turning ideas into beautiful, functional websites that make a difference for businesses and people.
+Hi there! I'm **Abdulqader**, a passionate **Business information technology student** and **front-end web developer** from Sana'a, Yemen. I love turning ideas into beautiful, functional websites that make a difference for businesses and people.
 
 - 🎓  Student at **International University of Technology Twintech (IUTT)**
 - 💼 **Freelance Web Developer** — building websites for different businesses
