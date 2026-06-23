@@ -19,6 +19,7 @@ Hi there! I'm **Abdulqader**, a passionate **BIT final-year student** and **fron
 - 💼 **Freelance Web Developer** — building websites for different businesses
 - 🚀 Currently building a **B2B marketing platform** connecting service providers with clients
 - 🌱 Learning & exploring more **JavaScript** projects
+- 🌐 **CCNA Trained** — solid understanding of networking fundamentals, routing & switching
 - 🌍 Based in **Sana'a, Yemen** | Fluent in **Arabic** & **English**
 
 ---
