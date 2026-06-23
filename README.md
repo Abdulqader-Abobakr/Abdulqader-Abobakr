@@ -16,7 +16,7 @@
 Hi there! I'm **Abdulqader**, a passionate **BIT final-year student** and **front-end web developer** from Sana'a, Yemen. I love turning ideas into beautiful, functional websites that make a difference for businesses and people.
 
 - 🎓 **Final-year** student at **International University of Technology Twintech (IUTT)**
-- 💼 **Freelance Web Developer** — building websites for small businesses
+- 💼 **Freelance Web Developer** — building websites for different businesses
 - 🚀 Currently building a **B2B marketing platform** connecting service providers with clients
 - 🌱 Learning & exploring more **JavaScript** projects
 - 🌍 Based in **Sana'a, Yemen** | Fluent in **Arabic** & **English**
